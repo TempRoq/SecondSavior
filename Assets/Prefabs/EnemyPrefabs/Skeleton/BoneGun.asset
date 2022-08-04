@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213993516ce6e3a4794db3c4488652d7, type: 3}
+  m_Name: BoneGun
+  m_EditorClassIdentifier: 
+  Projectiles:
+  - {fileID: 5678685560351484533, guid: b9bd06707a78b0d4b9c18e7e84004477, type: 3}
+  - {fileID: 5678685560351484533, guid: b9bd06707a78b0d4b9c18e7e84004477, type: 3}
+  - {fileID: 5678685560351484533, guid: b9bd06707a78b0d4b9c18e7e84004477, type: 3}
+  startAngleOffsets:
+  - 0
+  - -15
+  - 15

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6fe9c80895b09429bc954377b19a8c, type: 3}
+  m_Name: Figure8Action
+  m_EditorClassIdentifier: 
+  clusters:
+  - {fileID: 11400000, guid: 2066e8d5206aef94886dce65fbef6219, type: 2}
+  - {fileID: 11400000, guid: 68e67473650d76b4fbecccf67e6020ed, type: 2}
+  - {fileID: 11400000, guid: c02562ed99611014a8e9608cc4c22cd1, type: 2}
+  - {fileID: 11400000, guid: 59f86ab9a7d120c4caa3c3c69288fe33, type: 2}
+  clusterFrames: 000000001e0000005a00000078000000
+  attackLagFrames: 0
+  stopUser: 0

@@ -1,0 +1,4674 @@
+fileFormatVersion: 2
+guid: f1234f779d068d84f986ef43c7c1149e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5275027869823183480
+    second: ForestWallGroundMap2_0
+  - first:
+      213: -8682894430173552392
+    second: ForestWallGroundMap2_1
+  - first:
+      213: 3705806651438701720
+    second: ForestWallGroundMap2_2
+  - first:
+      213: 3278631948177050414
+    second: ForestWallGroundMap2_3
+  - first:
+      213: 6765011316896127719
+    second: ForestWallGroundMap2_4
+  - first:
+      213: -3281780248308768263
+    second: ForestWallGroundMap2_5
+  - first:
+      213: 4629699706112784871
+    second: ForestWallGroundMap2_6
+  - first:
+      213: 8814821446633392990
+    second: ForestWallGroundMap2_7
+  - first:
+      213: 3893094007215078478
+    second: ForestWallGroundMap2_8
+  - first:
+      213: 3522364991341148019
+    second: ForestWallGroundMap2_9
+  - first:
+      213: 2508855381167832747
+    second: ForestWallGroundMap2_10
+  - first:
+      213: 3297872946635955059
+    second: ForestWallGroundMap2_11
+  - first:
+      213: -1946979458306925849
+    second: ForestWallGroundMap2_12
+  - first:
+      213: -2212661446908727305
+    second: ForestWallGroundMap2_13
+  - first:
+      213: -4526391313443479734
+    second: ForestWallGroundMap2_14
+  - first:
+      213: 4934775177463033907
+    second: ForestWallGroundMap2_15
+  - first:
+      213: 8768589307860243412
+    second: ForestWallGroundMap2_16
+  - first:
+      213: 60757025507631110
+    second: ForestWallGroundMap2_17
+  - first:
+      213: -494170066018866307
+    second: ForestWallGroundMap2_18
+  - first:
+      213: -8357253364321365225
+    second: ForestWallGroundMap2_19
+  - first:
+      213: -6235722240756126251
+    second: ForestWallGroundMap2_20
+  - first:
+      213: -6324433423916603871
+    second: ForestWallGroundMap2_21
+  - first:
+      213: -1723988725436001504
+    second: ForestWallGroundMap2_22
+  - first:
+      213: 1916932954322705048
+    second: ForestWallGroundMap2_23
+  - first:
+      213: 7523130461278447882
+    second: ForestWallGroundMap2_24
+  - first:
+      213: 844943262878407089
+    second: ForestWallGroundMap2_25
+  - first:
+      213: 2648115815751572922
+    second: ForestWallGroundMap2_26
+  - first:
+      213: -9022539634729167537
+    second: ForestWallGroundMap2_27
+  - first:
+      213: -7582843409228174380
+    second: ForestWallGroundMap2_28
+  - first:
+      213: -6692102240750584657
+    second: ForestWallGroundMap2_29
+  - first:
+      213: 1033104580846927653
+    second: ForestWallGroundMap2_30
+  - first:
+      213: -6182976028626384486
+    second: ForestWallGroundMap2_31
+  - first:
+      213: 8039617387332291511
+    second: ForestWallGroundMap2_32
+  - first:
+      213: 3125968243839840088
+    second: ForestWallGroundMap2_33
+  - first:
+      213: 868777248077530660
+    second: ForestWallGroundMap2_34
+  - first:
+      213: -6852645448739484200
+    second: ForestWallGroundMap2_35
+  - first:
+      213: 237814066223320438
+    second: ForestWallGroundMap2_36
+  - first:
+      213: -5798729990728920525
+    second: ForestWallGroundMap2_37
+  - first:
+      213: -5313704688062642211
+    second: ForestWallGroundMap2_38
+  - first:
+      213: -8228744002020571708
+    second: ForestWallGroundMap2_39
+  - first:
+      213: 3310423266762520935
+    second: ForestWallGroundMap2_40
+  - first:
+      213: 4005586705233130783
+    second: ForestWallGroundMap2_41
+  - first:
+      213: -5563511537560636915
+    second: ForestWallGroundMap2_42
+  - first:
+      213: 8632841842846768243
+    second: ForestWallGroundMap2_43
+  - first:
+      213: -3104623270167228517
+    second: ForestWallGroundMap2_44
+  - first:
+      213: 3470807851539688165
+    second: ForestWallGroundMap2_45
+  - first:
+      213: -928658518215424197
+    second: ForestWallGroundMap2_46
+  - first:
+      213: -3144343770737643701
+    second: ForestWallGroundMap2_47
+  - first:
+      213: 4109283374058037653
+    second: ForestWallGroundMap2_48
+  - first:
+      213: 7384951724334004470
+    second: ForestWallGroundMap2_49
+  - first:
+      213: -139989698943494460
+    second: ForestWallGroundMap2_50
+  - first:
+      213: -6065695792406601614
+    second: ForestWallGroundMap2_51
+  - first:
+      213: 5740786393500522486
+    second: ForestWallGroundMap2_52
+  - first:
+      213: -6120727122178911211
+    second: ForestWallGroundMap2_53
+  - first:
+      213: -4736559797786031153
+    second: ForestWallGroundMap2_54
+  - first:
+      213: 8442055093638233860
+    second: ForestWallGroundMap2_55
+  - first:
+      213: 6267353824094503716
+    second: ForestWallGroundMap2_56
+  - first:
+      213: -621344573011991443
+    second: ForestWallGroundMap2_57
+  - first:
+      213: -373576575538620112
+    second: ForestWallGroundMap2_58
+  - first:
+      213: -6820219789282345421
+    second: ForestWallGroundMap2_59
+  - first:
+      213: 2143330709100724449
+    second: ForestWallGroundMap2_60
+  - first:
+      213: -2330062314201860204
+    second: ForestWallGroundMap2_61
+  - first:
+      213: 5258605326142390439
+    second: ForestWallGroundMap2_62
+  - first:
+      213: -6574863472066077809
+    second: ForestWallGroundMap2_63
+  - first:
+      213: -4533469547666761221
+    second: ForestWallGroundMap2_64
+  - first:
+      213: -1253664488497318558
+    second: ForestWallGroundMap2_65
+  - first:
+      213: -3596495924188374068
+    second: ForestWallGroundMap2_66
+  - first:
+      213: 2120208903779957559
+    second: ForestWallGroundMap2_67
+  - first:
+      213: -7029771651309297046
+    second: ForestWallGroundMap2_68
+  - first:
+      213: 8248772260091026948
+    second: ForestWallGroundMap2_69
+  - first:
+      213: 7989168924978017166
+    second: ForestWallGroundMap2_70
+  - first:
+      213: -5335134097857359542
+    second: ForestWallGroundMap2_71
+  - first:
+      213: -8510379003303914975
+    second: ForestWallGroundMap2_72
+  - first:
+      213: 936048386372922204
+    second: ForestWallGroundMap2_73
+  - first:
+      213: 6004573678094995988
+    second: ForestWallGroundMap2_74
+  - first:
+      213: 137859256611738129
+    second: ForestWallGroundMap2_75
+  - first:
+      213: -8217037296751537152
+    second: ForestWallGroundMap2_76
+  - first:
+      213: -6041518644165773245
+    second: ForestWallGroundMap2_77
+  - first:
+      213: -368092280395529936
+    second: ForestWallGroundMap2_78
+  - first:
+      213: 2437928245146173792
+    second: ForestWallGroundMap2_79
+  - first:
+      213: -686779371473841579
+    second: ForestWallGroundMap2_80
+  - first:
+      213: 2646274098483577825
+    second: ForestWallGroundMap2_81
+  - first:
+      213: -5935123707342982404
+    second: ForestWallGroundMap2_82
+  - first:
+      213: -2238620822074675922
+    second: ForestWallGroundMap2_83
+  - first:
+      213: 2149523945362768077
+    second: ForestWallGroundMap2_84
+  - first:
+      213: -7180008631683096093
+    second: ForestWallGroundMap2_85
+  - first:
+      213: -5131867276559069921
+    second: ForestWallGroundMap2_86
+  - first:
+      213: -1028309768305792509
+    second: ForestWallGroundMap2_87
+  - first:
+      213: 394118857894492103
+    second: ForestWallGroundMap2_88
+  - first:
+      213: -2842286766269969898
+    second: ForestWallGroundMap2_89
+  - first:
+      213: -5404002527650569792
+    second: ForestWallGroundMap2_90
+  - first:
+      213: -5073613536342234410
+    second: ForestWallGroundMap2_91
+  - first:
+      213: 6758893912479962323
+    second: ForestWallGroundMap2_92
+  - first:
+      213: -5792139682449486284
+    second: ForestWallGroundMap2_93
+  - first:
+      213: -4237220737020140533
+    second: ForestWallGroundMap2_94
+  - first:
+      213: -6088992164621232861
+    second: ForestWallGroundMap2_95
+  - first:
+      213: 6610830978928045458
+    second: ForestWallGroundMap2_96
+  - first:
+      213: 6334539599972815697
+    second: ForestWallGroundMap2_97
+  - first:
+      213: -5710560302631048895
+    second: ForestWallGroundMap2_98
+  - first:
+      213: -2832552756395968939
+    second: ForestWallGroundMap2_99
+  - first:
+      213: 3214276640338147610
+    second: ForestWallGroundMap2_100
+  - first:
+      213: 3088208919840953650
+    second: ForestWallGroundMap2_101
+  - first:
+      213: -7441940693239743065
+    second: ForestWallGroundMap2_102
+  - first:
+      213: 5856344159199372324
+    second: ForestWallGroundMap2_103
+  - first:
+      213: -6229908207648772987
+    second: ForestWallGroundMap2_104
+  - first:
+      213: 8623327036881840507
+    second: ForestWallGroundMap2_105
+  - first:
+      213: -6631427412529741698
+    second: ForestWallGroundMap2_106
+  - first:
+      213: -8665115293738591506
+    second: ForestWallGroundMap2_107
+  - first:
+      213: 250618774566764146
+    second: ForestWallGroundMap2_108
+  - first:
+      213: -6056767982786342449
+    second: ForestWallGroundMap2_109
+  - first:
+      213: -2530374112202570093
+    second: ForestWallGroundMap2_110
+  - first:
+      213: 2254878355095514428
+    second: ForestWallGroundMap2_111
+  - first:
+      213: 2343250266171890251
+    second: ForestWallGroundMap2_112
+  - first:
+      213: 980687727521262130
+    second: ForestWallGroundMap2_113
+  - first:
+      213: 5344978045714345116
+    second: ForestWallGroundMap2_114
+  - first:
+      213: -2223813281202260996
+    second: ForestWallGroundMap2_115
+  - first:
+      213: 3534978333504716584
+    second: ForestWallGroundMap2_116
+  - first:
+      213: 5528780536645171002
+    second: ForestWallGroundMap2_117
+  - first:
+      213: -195150430456896704
+    second: ForestWallGroundMap2_118
+  - first:
+      213: 7375733967406935783
+    second: ForestWallGroundMap2_119
+  - first:
+      213: 7399963536370689216
+    second: ForestWallGroundMap2_120
+  - first:
+      213: 1528226688337848832
+    second: ForestWallGroundMap2_121
+  - first:
+      213: -1131237862237234594
+    second: ForestWallGroundMap2_122
+  - first:
+      213: -3183087505348439
+    second: ForestWallGroundMap2_123
+  - first:
+      213: 6759689798070299101
+    second: ForestWallGroundMap2_124
+  - first:
+      213: 5799533010342637435
+    second: ForestWallGroundMap2_125
+  - first:
+      213: 7190980548915845679
+    second: ForestWallGroundMap2_126
+  - first:
+      213: 846987789886093069
+    second: ForestWallGroundMap2_127
+  - first:
+      213: 5064923602295706123
+    second: ForestWallGroundMap2_128
+  - first:
+      213: -6622207445405797485
+    second: ForestWallGroundMap2_129
+  - first:
+      213: 8002521676102609911
+    second: ForestWallGroundMap2_130
+  - first:
+      213: 4796324356636527714
+    second: ForestWallGroundMap2_131
+  - first:
+      213: -5695442325243457778
+    second: ForestWallGroundMap2_132
+  - first:
+      213: -6668279006616145827
+    second: ForestWallGroundMap2_133
+  - first:
+      213: -6254525308273173086
+    second: ForestWallGroundMap2_134
+  - first:
+      213: 8830212122761974455
+    second: ForestWallGroundMap2_135
+  - first:
+      213: -3709068522711364996
+    second: ForestWallGroundMap2_136
+  - first:
+      213: 622067096393559914
+    second: ForestWallGroundMap2_137
+  - first:
+      213: 6678932695393700686
+    second: ForestWallGroundMap2_138
+  - first:
+      213: 576048183400571506
+    second: ForestWallGroundMap2_139
+  - first:
+      213: -7628714231394575588
+    second: ForestWallGroundMap2_140
+  - first:
+      213: -8602782408837380509
+    second: ForestWallGroundMap2_141
+  - first:
+      213: -8157994269725950873
+    second: ForestWallGroundMap2_142
+  - first:
+      213: -4289071228265853378
+    second: ForestWallGroundMap2_143
+  - first:
+      213: 5914865693176344171
+    second: ForestWallGroundMap2_144
+  - first:
+      213: 4063137406483338513
+    second: ForestWallGroundMap2_145
+  - first:
+      213: 4591207819425976601
+    second: ForestWallGroundMap2_146
+  - first:
+      213: 858364179143227700
+    second: ForestWallGroundMap2_147
+  - first:
+      213: -9171071045204036357
+    second: ForestWallGroundMap2_148
+  - first:
+      213: -8732643806540307899
+    second: ForestWallGroundMap2_149
+  - first:
+      213: -3357282559670246086
+    second: ForestWallGroundMap2_150
+  - first:
+      213: 8781657726411505309
+    second: ForestWallGroundMap2_151
+  - first:
+      213: -2599073287966397349
+    second: ForestWallGroundMap2_152
+  - first:
+      213: -132976520773593878
+    second: ForestWallGroundMap2_153
+  - first:
+      213: -4079326421892921311
+    second: ForestWallGroundMap2_154
+  - first:
+      213: 3155199825863718471
+    second: ForestWallGroundMap2_155
+  - first:
+      213: 7573910580252623854
+    second: ForestWallGroundMap2_156
+  - first:
+      213: -6712465063172910572
+    second: ForestWallGroundMap2_157
+  - first:
+      213: 2212511002498406986
+    second: ForestWallGroundMap2_158
+  - first:
+      213: 5733953918874219400
+    second: ForestWallGroundMap2_159
+  - first:
+      213: 822522164786494009
+    second: ForestWallGroundMap2_160
+  - first:
+      213: 2515686227024234230
+    second: ForestWallGroundMap2_161
+  - first:
+      213: 8045565158235009526
+    second: ForestWallGroundMap2_162
+  - first:
+      213: -2625688147296061320
+    second: ForestWallGroundMap2_163
+  - first:
+      213: -6251621674552976410
+    second: ForestWallGroundMap2_164
+  - first:
+      213: -1846832931086741904
+    second: ForestWallGroundMap2_165
+  - first:
+      213: -4517064696647586125
+    second: ForestWallGroundMap2_166
+  - first:
+      213: -3180642601088342710
+    second: ForestWallGroundMap2_167
+  - first:
+      213: -4309217922180525412
+    second: ForestWallGroundMap2_168
+  - first:
+      213: -755158584632078798
+    second: ForestWallGroundMap2_169
+  - first:
+      213: -6430592887505816496
+    second: ForestWallGroundMap2_170
+  - first:
+      213: -1383928042036389313
+    second: ForestWallGroundMap2_171
+  - first:
+      213: 6034172356756181321
+    second: ForestWallGroundMap2_172
+  - first:
+      213: 9097494440947200596
+    second: ForestWallGroundMap2_173
+  - first:
+      213: -6307321347455315620
+    second: ForestWallGroundMap2_174
+  - first:
+      213: 1791657579599701768
+    second: ForestWallGroundMap2_175
+  - first:
+      213: 8582108288572154434
+    second: ForestWallGroundMap2_176
+  - first:
+      213: -5851788652732566834
+    second: ForestWallGroundMap2_177
+  - first:
+      213: 8741604718074454557
+    second: ForestWallGroundMap2_178
+  - first:
+      213: -309279676799099436
+    second: ForestWallGroundMap2_179
+  - first:
+      213: -2263024714222020293
+    second: ForestWallGroundMap2_180
+  - first:
+      213: -3641255869841968915
+    second: ForestWallGroundMap2_181
+  - first:
+      213: -6321772135562490949
+    second: ForestWallGroundMap2_182
+  - first:
+      213: -1951239426809872197
+    second: ForestWallGroundMap2_183
+  - first:
+      213: 5566009878657769551
+    second: ForestWallGroundMap2_184
+  - first:
+      213: -9154018184299135117
+    second: ForestWallGroundMap2_185
+  - first:
+      213: 6589219749724884729
+    second: ForestWallGroundMap2_186
+  - first:
+      213: -592101586259375546
+    second: ForestWallGroundMap2_187
+  - first:
+      213: -8239405899247297457
+    second: ForestWallGroundMap2_188
+  - first:
+      213: -585290725689370778
+    second: ForestWallGroundMap2_189
+  - first:
+      213: 4941946905455396953
+    second: ForestWallGroundMap2_190
+  - first:
+      213: 8448186704416248561
+    second: ForestWallGroundMap2_191
+  - first:
+      213: -562000078527403537
+    second: ForestWallGroundMap2_192
+  - first:
+      213: -1401716639028623474
+    second: ForestWallGroundMap2_193
+  - first:
+      213: -4489716639486897566
+    second: ForestWallGroundMap2_194
+  - first:
+      213: -473810427199682179
+    second: ForestWallGroundMap2_195
+  - first:
+      213: -6581032302815891731
+    second: ForestWallGroundMap2_196
+  - first:
+      213: 6037322220774921119
+    second: ForestWallGroundMap2_197
+  - first:
+      213: 8195067851052191784
+    second: ForestWallGroundMap2_198
+  - first:
+      213: -7804796020534192409
+    second: ForestWallGroundMap2_199
+  - first:
+      213: -8719669881513476729
+    second: ForestWallGroundMap2_200
+  - first:
+      213: -6643375044929848241
+    second: ForestWallGroundMap2_201
+  - first:
+      213: -4407591461684415759
+    second: ForestWallGroundMap2_202
+  - first:
+      213: -6518881924252686137
+    second: ForestWallGroundMap2_203
+  - first:
+      213: -4979756306630973185
+    second: ForestWallGroundMap2_204
+  - first:
+      213: 3800210628423562308
+    second: ForestWallGroundMap2_205
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88557e6c9165bc6b0800000000000000
+      internalID: -5275027869823183480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0a94b0589208780800000000000000
+      internalID: -8682894430173552392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c9849e38bad6330800000000000000
+      internalID: 3705806651438701720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b075cc26a008d20800000000000000
+      internalID: 3278631948177050414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 477
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea571d33f522ed50800000000000000
+      internalID: 6765011316896127719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a9a47046c472d0800000000000000
+      internalID: -3281780248308768263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9359f7a5fff3040800000000000000
+      internalID: 4629699706112784871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b041d1769845a70800000000000000
+      internalID: 8814821446633392990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cb1418f5c070630800000000000000
+      internalID: 3893094007215078478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377392e1c44f1e030800000000000000
+      internalID: 3522364991341148019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef55b3dae31d220800000000000000
+      internalID: 2508855381167832747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5b9ad8f564cd20800000000000000
+      internalID: 3297872946635955059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea12aa8f70faf4e0800000000000000
+      internalID: -1946979458306925849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffadc0232c0b41e0800000000000000
+      internalID: -2212661446908727305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f99cf05170f21c0800000000000000
+      internalID: -4526391313443479734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330791bd0e7db7440800000000000000
+      internalID: 4934775177463033907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 436
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35c4c748940b970800000000000000
+      internalID: 8768589307860243412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600edfa513ad7d000800000000000000
+      internalID: 60757025507631110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b605471fa5429f0800000000000000
+      internalID: -494170066018866307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dfa10852150c80800000000000000
+      internalID: -8357253364321365225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd6ab909a34679a0800000000000000
+      internalID: -6235722240756126251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e7d92f491b38a0800000000000000
+      internalID: -6324433423916603871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023db9763692318e0800000000000000
+      internalID: -1723988725436001504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a15a89d505a9a10800000000000000
+      internalID: 1916932954322705048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092c679b47876860800000000000000
+      internalID: 7523130461278447882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.9428627, y: 0.9043549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91a3fbb67d9bb00800000000000000
+      internalID: 844943262878407089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd57f9dd4fffb420800000000000000
+      internalID: 2648115815751572922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d514710089c280800000000000000
+      internalID: -9022539634729167537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbea8d481454c690800000000000000
+      internalID: -7582843409228174380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac3773e770e023a0800000000000000
+      internalID: -6692102240750584657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb5358423565e00800000000000000
+      internalID: 1033104580846927653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9908fe8f08a13aa0800000000000000
+      internalID: -6182976028626384486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbcef50b65729f60800000000000000
+      internalID: 8039617387332291511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa9314e8ba16b20800000000000000
+      internalID: 3125968243839840088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4264a9cdd448e0c00800000000000000
+      internalID: 868777248077530660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8f20754386e0a0800000000000000
+      internalID: -6852645448739484200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d05db12a2ec4300800000000000000
+      internalID: 237814066223320438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d232ebc5c68fa0800000000000000
+      internalID: -5798729990728920525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 397
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c2ba4dbde146b0800000000000000
+      internalID: -5313704688062642211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c500fb8de0adcd80800000000000000
+      internalID: -8228744002020571708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7697197fb6cf0fd20800000000000000
+      internalID: 3310423266762520935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b27ac2e3b69730800000000000000
+      internalID: 4005586705233130783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0239ebbbbf6ac2b0800000000000000
+      internalID: -5563511537560636915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9205dae30ec770800000000000000
+      internalID: 8632841842846768243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4544b5992ae4d0800000000000000
+      internalID: -3104623270167228517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae8a21a59ca2030800000000000000
+      internalID: 3470807851539688165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3701287ffdbc13f0800000000000000
+      internalID: -928658518215424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f687dfffb0d54d0800000000000000
+      internalID: -3144343770737643701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e520f47b170930800000000000000
+      internalID: 4109283374058037653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_49
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83654577e9c7660800000000000000
+      internalID: 7384951724334004470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6524a4c18ae0ef0800000000000000
+      internalID: -139989698943494460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 357
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e50270d152dba0800000000000000
+      internalID: -6065695792406601614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 357
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79ef31fce5baf40800000000000000
+      internalID: 5740786393500522486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 357
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145d638c1fce0ba0800000000000000
+      internalID: -6120727122178911211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 357
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb419395fb544eb0800000000000000
+      internalID: -4736559797786031153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 357
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f75963164382570800000000000000
+      internalID: 8442055093638233860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c6ded81d1af650800000000000000
+      internalID: 6267353824094503716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e082276a8067f0800000000000000
+      internalID: -621344573011991443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391d96751ac0daf0800000000000000
+      internalID: -373576575538620112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7cb99c36b951a0800000000000000
+      internalID: -6820219789282345421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e082209ce3aebd10800000000000000
+      internalID: 2143330709100724449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_61
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 337
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973971aba4f9afd0800000000000000
+      internalID: -2330062314201860204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c1becea15af840800000000000000
+      internalID: 5258605326142390439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b5fccd18461c4a0800000000000000
+      internalID: -6574863472066077809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9954b3771e511c0800000000000000
+      internalID: -4533469547666761221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26578973ac61a9ee0800000000000000
+      internalID: -1253664488497318558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9c92130ea61ec0800000000000000
+      internalID: -3596495924188374068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bbc6fb3ce7c6d10800000000000000
+      internalID: 2120208903779957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62299fadeb317e90800000000000000
+      internalID: -7029771651309297046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_69
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e52dbaaa6897270800000000000000
+      internalID: 8248772260091026948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_70
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8377ef0fca3fde60800000000000000
+      internalID: 7989168924978017166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4153240ecbc5f5b0800000000000000
+      internalID: -5335134097857359542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122902ce26f05e980800000000000000
+      internalID: -8510379003303914975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be55a4c038dfc00800000000000000
+      internalID: 936048386372922204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 277
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412538652f7845350800000000000000
+      internalID: 6004573678094995988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_75
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 277
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11297537346c9e100800000000000000
+      internalID: 137859256611738129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_76
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 277
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041df44d1837fd80800000000000000
+      internalID: -8217037296751537152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 277
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348799e6dc6382ca0800000000000000
+      internalID: -6041518644165773245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031067e650644eaf0800000000000000
+      internalID: -368092280395529936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06144df72d245d120800000000000000
+      internalID: 2437928245146173792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525c34ecc11876f0800000000000000
+      internalID: -686779371473841579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_81
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34e62a54479b420800000000000000
+      internalID: 2646274098483577825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf272dd0f6432ada0800000000000000
+      internalID: -5935123707342982404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_83
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d22791932dee0e0800000000000000
+      internalID: -2238620822074675922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc04b8fb3a4a4dd10800000000000000
+      internalID: 2149523945362768077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16a48d03c7b5c90800000000000000
+      internalID: -7180008631683096093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_86
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dce3ad6e1f7c8b0800000000000000
+      internalID: -5131867276559069921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_87
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa115c6b5bab1f0800000000000000
+      internalID: -1028309768305792509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_88
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7751c5301387500800000000000000
+      internalID: 394118857894492103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_89
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4fa2ce3b2e88d0800000000000000
+      internalID: -2842286766269969898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1231e25502105b0800000000000000
+      internalID: -5404002527650569792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_91
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 257
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da25beae57e699b0800000000000000
+      internalID: -5073613536342234410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41be7043a6ccd50800000000000000
+      internalID: 6758893912479962323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_93
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e872a95af2e9fa0800000000000000
+      internalID: -5792139682449486284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04eefe703e5235c0800000000000000
+      internalID: -4237220737020140533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255d9b13ed8f7ba0800000000000000
+      internalID: -6088992164621232861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6729efb36ebb50800000000000000
+      internalID: 6610830978928045458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_97
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1535600543ec8e750800000000000000
+      internalID: 6334539599972815697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_98
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149aa3d19a300c0b0800000000000000
+      internalID: -5710560302631048895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f67b8640c0b8d0800000000000000
+      internalID: -2832552756395968939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_100
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 237
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19f03d03976b9c20800000000000000
+      internalID: 3214276640338147610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235105b86a58bda20800000000000000
+      internalID: 3088208919840953650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_102
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbbeb5e5ae8b890800000000000000
+      internalID: -7441940693239743065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424238b0cf9e54150800000000000000
+      internalID: 5856344159199372324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_104
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cedcb1e7bea89a0800000000000000
+      internalID: -6229908207648772987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792d5f60463ca770800000000000000
+      internalID: 8623327036881840507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_106
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70806237ef68f3a0800000000000000
+      internalID: -6631427412529741698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea18e2dc835fb780800000000000000
+      internalID: -8665115293738591506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e781892706a7300800000000000000
+      internalID: 250618774566764146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_109
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19f0b1c9902fba0800000000000000
+      internalID: -6056767982786342449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_110
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964255c62e42ecd0800000000000000
+      internalID: -2530374112202570093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_111
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d6f27caefea4f10800000000000000
+      internalID: 2254878355095514428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_112
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad307b3b5e48020800000000000000
+      internalID: 2343250266171890251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_113
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6d72da4a1c9d00800000000000000
+      internalID: 980687727521262130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_114
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca013b63d2d2a40800000000000000
+      internalID: 5344978045714345116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b42f5a9d6321e0800000000000000
+      internalID: -2223813281202260996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_116
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3041b014ce0130800000000000000
+      internalID: 3534978333504716584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_117
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3734d7fa9c2abc40800000000000000
+      internalID: 5528780536645171002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432adaa7bfaa4df0800000000000000
+      internalID: -195150430456896704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_119
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea21d07fedb5660800000000000000
+      internalID: 7375733967406935783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_120
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e73031a3f1b660800000000000000
+      internalID: 7399963536370689216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_121
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a26ae731a553510800000000000000
+      internalID: 1528226688337848832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_122
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a90e868290d40f0800000000000000
+      internalID: -1131237862237234594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a864ffaff0b4fff0800000000000000
+      internalID: -3183087505348439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_124
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9efc59e0e3fcd50800000000000000
+      internalID: 6759689798070299101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fef90bb841c7050800000000000000
+      internalID: 5799533010342637435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_126
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5fd4b5be7bc360800000000000000
+      internalID: 7190980548915845679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_127
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f04948ea11cb00800000000000000
+      internalID: 846987789886093069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d3516e293a4640800000000000000
+      internalID: 5064923602295706123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_129
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f3a31a613914a0800000000000000
+      internalID: -6622207445405797485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba573b01bae0f60800000000000000
+      internalID: 8002521676102609911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_131
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ccfd02797ff8240800000000000000
+      internalID: 4796324356636527714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_132
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f83258169b5f0b0800000000000000
+      internalID: -5695442325243457778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503373d2938573a0800000000000000
+      internalID: -6668279006616145827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_134
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addfa9be567339a0800000000000000
+      internalID: -6254525308273173086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2539424273b8a70800000000000000
+      internalID: 8830212122761974455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_136
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac43084ddb68cc0800000000000000
+      internalID: -3709068522711364996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_137
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2ff27ab602a800800000000000000
+      internalID: 622067096393559914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_138
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0fa366e550bc50800000000000000
+      internalID: 6678932695393700686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_139
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a91155c88ef700800000000000000
+      internalID: 576048183400571506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_140
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b52c043dc512690800000000000000
+      internalID: -7628714231394575588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_141
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c4498af6cc9880800000000000000
+      internalID: -8602782408837380509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cff414f6bf8ce80800000000000000
+      internalID: -8157994269725950873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_143
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8dde31782a74c0800000000000000
+      internalID: -4289071228265853378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_144
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eabe77203d51250800000000000000
+      internalID: 5914865693176344171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_145
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159a0b91f9236830800000000000000
+      internalID: 4063137406483338513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_146
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91191eebf2f37bf30800000000000000
+      internalID: 4591207819425976601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_147
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43970c15ca589eb00800000000000000
+      internalID: 858364179143227700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_148
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf43ebc897fc9b080800000000000000
+      internalID: -9171071045204036357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_149
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426629b9ba6fc680800000000000000
+      internalID: -8732643806540307899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_150
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ad34bc498861d0800000000000000
+      internalID: -3357282559670246086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_151
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e72d9cc27bed970800000000000000
+      internalID: 8781657726411505309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_152
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6e857d9c3eebd0800000000000000
+      internalID: -2599073287966397349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_153
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae492d31f82972ef0800000000000000
+      internalID: -132976520773593878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_154
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12805348b325367c0800000000000000
+      internalID: -4079326421892921311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_155
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463bff468589cb20800000000000000
+      internalID: 3155199825863718471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c7806b8feb1960800000000000000
+      internalID: 7573910580252623854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_157
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412db56d69888d2a0800000000000000
+      internalID: -6712465063172910572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_158
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a9f8dc80b64be10800000000000000
+      internalID: 2212511002498406986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_159
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883f4fc95b8139f40800000000000000
+      internalID: 5733953918874219400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_160
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afbfb0d8f2a6b00800000000000000
+      internalID: 822522164786494009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_161
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64f187b4389e220800000000000000
+      internalID: 2515686227024234230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_162
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f17bd952e697af60800000000000000
+      internalID: 8045565158235009526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_163
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f671aa8eaf8bd0800000000000000
+      internalID: -2625688147296061320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_164
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb1322a537cd39a0800000000000000
+      internalID: -6251621674552976410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_165
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 58
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec41feb3bbe56e0800000000000000
+      internalID: -1846832931086741904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 78
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beecd047992051c0800000000000000
+      internalID: -4517064696647586125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_167
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 78
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45a7a4f7661cd3d0800000000000000
+      internalID: -3180642601088342710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_168
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92dea881259234c0800000000000000
+      internalID: -4309217922180525412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_169
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0beda4432585f0800000000000000
+      internalID: -755158584632078798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ff0de6d1f1c6a0800000000000000
+      internalID: -6430592887505816496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_171
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a18b337cc4bcce0800000000000000
+      internalID: -1383928042036389313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_172
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411fedb9cfadb350800000000000000
+      internalID: 6034172356756181321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_173
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452bfb25efac04e70800000000000000
+      internalID: 9097494440947200596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_174
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 58
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5110b0f6a4e778a0800000000000000
+      internalID: -6307321347455315620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072d27731f3dd810800000000000000
+      internalID: 1791657579599701768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_176
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 58
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242674cb406c91770800000000000000
+      internalID: 8582108288572154434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_177
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b63579354acea0800000000000000
+      internalID: -5851788652732566834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_178
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e4b31d2b605970800000000000000
+      internalID: 8741604718074454557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_179
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5428c5c735bbf0800000000000000
+      internalID: -309279676799099436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_180
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ddde230f1890e0800000000000000
+      internalID: -2263024714222020293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_181
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de073cd1419a77dc0800000000000000
+      internalID: -3641255869841968915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_182
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc5d4acbd8448a0800000000000000
+      internalID: -6321772135562490949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_183
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c245541ecbe4e0800000000000000
+      internalID: -1951239426809872197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_184
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4026b1ae707e3d40800000000000000
+      internalID: 5566009878657769551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f326126f466f080800000000000000
+      internalID: -9154018184299135117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_186
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0751837c917b50800000000000000
+      internalID: 6589219749724884729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestWallGroundMap2_187
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 19
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a80109ebe68c7f0800000000000000
+      internalID: -592101586259375546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
